@@ -1,0 +1,16 @@
+{
+  "name": "Iago Facundo",
+  "lastname": "Ortellado ferrere",
+  "img_file": "https://gloouds-resource-v2.s3.amazonaws.com/user/4138/img/profile-img.png",
+  "team": "Octava",
+  "club": "Club Atlético Banfield",
+  "gloouds_index": 25.02,
+  "gloouds_color": "#A7D251",
+  "federation_index": 78.0,
+  "federation_color": "#0CB64A",
+  "category": "U16",
+  "demarcation": "goalkeeper",
+  "demarcation_keyword": "PO",
+  "position": "Goalkeeper",
+  "position_keyword": "GK"
+}
