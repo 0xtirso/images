@@ -1,0 +1,19 @@
+{
+  "name": "Iago Facundo Ortellado ferrere",
+  "description": "Jugador de fútbol en Club Atlético Banfield - Categoría U16, posición: Goalkeeper.",
+  "image": "https://gloouds-resource-v2.s3.amazonaws.com/user/4138/img/profile-img.png",
+  "external_url": "https://example.com/player/1",
+  "attributes": [
+    { "trait_type": "Team", "value": "Octava" },
+    { "trait_type": "Club", "value": "Club Atlético Banfield" },
+    { "trait_type": "Category", "value": "U16" },
+    { "trait_type": "Position", "value": "Goalkeeper" },
+    { "trait_type": "Demarcation", "value": "goalkeeper" },
+    { "trait_type": "Demarcation Keyword", "value": "PO" },
+    { "trait_type": "Position Keyword", "value": "GK" },
+    { "trait_type": "Gloouds Index", "value": 25.02 },
+    { "trait_type": "Federation Index", "value": 78.0 },
+    { "trait_type": "Gloouds Color", "value": "#A7D251" },
+    { "trait_type": "Federation Color", "value": "#0CB64A" }
+  ]
+}
